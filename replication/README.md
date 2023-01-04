@@ -23,10 +23,15 @@ This folder stores codes and related files to replicate the scGREAT paper result
 
 ## Replication of each figure and supplementary materials
 Please refer to the codes and Jupyter notebooks in each folder to replicate the results.
+- Figure 1:  
+  - ``time.*.py`` for estimating the computational time
+  - ``time_plot.R`` for ploting the time consumption summary
+  - You can also refer to the raw results saved in ``supplementary/``
 - Figure 2:  
-  ``10X.ipynb`` for results in 10X Multiome PBMC dataset.  
-  ``SHARE_seq.ipynb`` for results in SHARE-seq mouse brain dataset.  
-  ``SNARE_seq.ipynb`` for results in SNARE-seq mouse skin dataset.  
-  ``plots.R`` to produce the summary plots shown in the manuscript.  
+  - ``10X.ipynb`` for results in 10X Multiome PBMC dataset.  
+  - ``SHARE_seq.ipynb`` for results in SHARE-seq mouse brain dataset
+  - ``SNARE_seq.ipynb`` for results in SNARE-seq mouse skin dataset
+  - ``plots.R`` to produce the summary plots shown in the manuscript
+  - ``Supplementary_examples.ipynb`` to replicate the supplementary examples shown in the manuscript
 
 * package name related code modification
