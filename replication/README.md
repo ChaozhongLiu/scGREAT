@@ -34,6 +34,7 @@ Please refer to the codes and Jupyter notebooks in each folder to replicate the 
   - ``SHARE_seq.ipynb`` for results in SHARE-seq mouse brain dataset
   - ``SNARE_seq.ipynb`` for results in SNARE-seq mouse skin dataset
   - ``plots.R`` to produce the summary plots shown in the manuscript
+  - ``GSEA.R`` to generate the GSEA results
   - ``Supplementary_examples.ipynb`` to replicate the supplementary examples shown in the manuscript
   
 - Figure 3:
@@ -41,5 +42,10 @@ Please refer to the codes and Jupyter notebooks in each folder to replicate the 
   - ``plots.R`` to replicate the plots in manuscript
   - you can also refer to the homer results saved in ``supplementary/``
   
+- Figure 4:
+  - ``fig4.labeled_analysis.ipynb`` to perform the statistical test of marker pairs
+  - ``fig4.Functional_annotation_analysis.ipynb`` to call Homer and extract motifs of interests
+  - ``Go.R`` to produce the GO analysis results
+  - you can also refer to the homer results saved in ``supplementary/``
   
 * package name related code modification
