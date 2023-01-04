@@ -21,5 +21,12 @@ This folder stores codes and related files to replicate the scGREAT paper result
 
 2. Run ``data_preparation.ipynb`` to generate all data needed for replicating the results.
 
+## Replication of each figure and supplementary materials
+Please refer to the codes and Jupyter notebooks in each folder to replicate the results.
+- Figure 2:  
+  ``10X.ipynb`` for results in 10X Multiome PBMC dataset.  
+  ``SHARE_seq.ipynb`` for results in SHARE-seq mouse brain dataset.  
+  ``SNARE_seq.ipynb`` for results in SNARE-seq mouse skin dataset.  
+  ``plots.R`` to produce the summary plots shown in the manuscript.  
 
 * package name related code modification
