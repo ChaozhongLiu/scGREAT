@@ -27,11 +27,19 @@ Please refer to the codes and Jupyter notebooks in each folder to replicate the 
   - ``time.*.py`` for estimating the computational time
   - ``time_plot.R`` for ploting the time consumption summary
   - You can also refer to the raw results saved in ``supplementary/``
+  
+  
 - Figure 2:  
   - ``10X.ipynb`` for results in 10X Multiome PBMC dataset.  
   - ``SHARE_seq.ipynb`` for results in SHARE-seq mouse brain dataset
   - ``SNARE_seq.ipynb`` for results in SNARE-seq mouse skin dataset
   - ``plots.R`` to produce the summary plots shown in the manuscript
   - ``Supplementary_examples.ipynb`` to replicate the supplementary examples shown in the manuscript
-
+  
+- Figure 3:
+  - ``fig3.unlabeled_analysis.ipynb`` to perform the trajectory analysis on CD4+ T cells
+  - ``plots.R`` to replicate the plots in manuscript
+  - you can also refer to the homer results saved in ``supplementary/``
+  
+  
 * package name related code modification
