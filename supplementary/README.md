@@ -1,2 +1,2 @@
-# scGREAT
-Single-cell Graph-based Regulatory Element Analysis Toolkit
+# scGREAT supplementary materials
+This folder contains raw results from the manuscript.
