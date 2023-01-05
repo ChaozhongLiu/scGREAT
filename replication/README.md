@@ -1,4 +1,4 @@
-# scGREAT main result replication
+# scGREAT main results replication
 This folder stores codes and related files to replicate the scGREAT paper results.
 
 ## Data Availability
