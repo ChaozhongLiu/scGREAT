@@ -1,7 +1,8 @@
 import os
 os.environ['OPENBLAS_NUM_THREADS'] = '8'
 import esda
-
+import sys
+sys.path.append('../')
 import numpy as np
 import pandas as pd
 import scanpy as sc
