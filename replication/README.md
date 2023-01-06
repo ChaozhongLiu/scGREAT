@@ -21,6 +21,12 @@ This folder stores codes and related files to replicate the scGREAT paper result
 
 2. Run ``data_preparation.ipynb`` to generate all data needed for replicating the results.
 
+## Package
+The package used to generate all results was based on the development version of the current package.  
+The codes are saved in ``multiome/`` and is called by all the scripts by ``import multiome``  
+Please use the same environment as the public available package when running codes in these folders.
+
+
 ## Replication of each figure and supplementary materials
 Please refer to the codes and Jupyter notebooks in each folder to replicate the results.
 - Figure 1:  
