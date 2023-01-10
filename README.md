@@ -3,10 +3,10 @@
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![scgreat Version](https://img.shields.io/badge/scgreat-v1.0.0-green.svg)  
 
-Single-cell Graph-based Regulatory Element Analysis Toolkit (scGREAT) takes as input the single-cell multiome data for various kinds of analyses:  
+Single-cell Graph-based Regulatory Element Analysis Toolkit (scGREAT) takes as input the single-cell multiome data for various kinds of regulation-based analyses:  
 - gene-peak correlation measurement
 - regulatory pair marker discovery
-- regulation-based sub-clustering
+- sub-clustering
 - trajectory inferring
 - feature module discovery
 - motif enrichment analysis
