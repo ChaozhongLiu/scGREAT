@@ -63,7 +63,7 @@ pip3 install minisom
 ## Quick start
 - To test whether the package is working without error and go through important functions in scGREAT:
   - Download the toy example data ``example/data/toy_test.h5ad``
-  - Follow tutorials in the Jupyter Notebook ``quick_start_test.ipynb`` to get familiar with the package
+  - Follow this [Jupyter Notebook tutorial](example/quick_start_test.ipynb)  to get familiar with the package
 
 - To prepare your own single-cell multiome data for scGREAT, see tutorial here (incomplete).
 
