@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: scgreat
+Version: 1.0.0
+Summary: Single-cell Graph-based Regulatory Element Analysis Toolkit
+Home-page: https://github.com/ChaozhongLiu/scGREAT
+Author: Chaozhong Liu
+Author-email: czliubioinfo@gmail.com
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# scGREAT
+Single-cell Graph-based Regulatory Element Analysis Toolkit
