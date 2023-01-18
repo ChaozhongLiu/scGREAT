@@ -20,6 +20,8 @@ go <- enrichGO(gene = genes$ENSEMBL, OrgDb = "org.Hs.eg.db", ont="BP", keyType =
 go <- simplify(go)
 dotplot(go, split="ONTOLOGY",showCategory=5,font.size=8) +facet_grid(~ONTOLOGY, scale="free")
 barplot(go,showCategory=5) #8x6
+write.table(go,"GO_Spi1.txt",quote=F,sep='\t')
+
 
 ## CD4 T markers ----
 rm(list=ls())
@@ -32,6 +34,7 @@ go <- simplify(go)
 dotplot(go, split="ONTOLOGY",showCategory=5,font.size=8) #+facet_grid(~ONTOLOGY, scale="free")
 
 barplot(go,showCategory=5) #8x6
+write.table(go,"GO_RUNX1.txt",quote=F,sep='\t')
 
 
 
