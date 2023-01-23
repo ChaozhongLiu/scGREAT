@@ -26,9 +26,9 @@ library(ggridges)
 theme_set(theme_ridges())
 
 
-color_palette_ct <- c('#3b75af',
-                      '#ed8536',
-                      '#509b6c')
+color_palette_ct <- c('#433179',
+                      '#458a8c',
+                      '#fae855')
 
 
 dat_1 <- read.csv('10X_CD4T.timecurve.reg.raw.csv')
