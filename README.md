@@ -14,7 +14,7 @@ Single-cell Graph-based Regulatory Element Analysis Toolkit (scGREAT) takes as i
 - ...
   
   
-The core of the package is graph-based correlation measurement L adapted from geographical researches. For details, please refer to our manuscript on bioRxiv.
+The core of the package is graph-based correlation measurement L adapted from geographical researches. For details, please refer to our [manuscript](https://www.biorxiv.org/content/10.1101/2023.01.27.525916v1) on bioRxiv.
 
 ## Installation
 scGREAT is written in Python and is available from PyPI. Note that Python version should be 3.x.
